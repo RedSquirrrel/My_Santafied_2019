@@ -1,7 +1,7 @@
 
 /* ********************** PAGES BACKGROUNDS START ********************** */
 #movie {
-  background: url('../img/movie/movie_bg.jpg') no-repeat center center/cover fixed;
+  background: url('./img/movie/movie_bg.jpg') no-repeat center center/cover fixed;
   height: 110vh;
   line-height: 1.4;
 }
@@ -41,7 +41,7 @@ h1 {
   #movie {
     height: 250%;
     background-color: #333;   
-    background: url('../img/movie/movie_mobile_bg.jpg') no-repeat center center/cover fixed;
+    background: url('./img/movie/movie_mobile_bg.jpg') no-repeat center center/cover fixed;
    }
 
   h1 {
