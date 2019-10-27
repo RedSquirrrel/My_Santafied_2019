@@ -1,6 +1,6 @@
 /* ********************** BACKGROUNDS ********************** */
 #songs {
-  background: url('../img/songs_bg.jpg') no-repeat center center/cover fixed;
+  background: url('./img/songs_bg.jpg') no-repeat center center/cover fixed;
 }
 
 #lyrics {
@@ -62,7 +62,7 @@
 @media(max-width: 700px){
 
   #songs {
-    background: url('../img/songs_mobile_bg.jpg') no-repeat center center/cover fixed;
+    background: url('./img/songs_mobile_bg.jpg') no-repeat center center/cover fixed;
   }  
   
   #lyrics .lyrics-content {
