@@ -1,6 +1,6 @@
 /* ********************** PAGES BACKGROUNDS START ********************** */
 #books {
-  background: url('../img/books/books_bg.jpg') no-repeat center center/cover fixed;
+  background: url('./img/books/books_bg.jpg') no-repeat center center/cover fixed;
 }
 
 .book-section {
@@ -78,7 +78,7 @@ background-image: linear-gradient(#4d1601, #ca1902 );
  /* ****************************************** RESPONSIVE ********************************** */
  @media (max-width: 700px) {
   #books {
-    background: url('../img/books/books_mobile_bg.jpg') no-repeat center center/cover fixed;
+    background: url('./img/books/books_mobile_bg.jpg') no-repeat center center/cover fixed;
   }
   
   .book-section {
