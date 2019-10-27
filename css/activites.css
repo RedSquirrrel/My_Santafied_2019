@@ -35,7 +35,7 @@ aside {
 
 
 #activities {
-  background: url('../img/activities_bg.jpg') no-repeat center center/cover fixed;
+  background: url('./img/activities_bg.jpg') no-repeat center center/cover fixed;
 }
 
 .activities-container {
