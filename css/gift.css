@@ -6,7 +6,7 @@ body {
   align-items: center;
   min-height: 100vh;
   font-family: "Poppins", sans-serif;
-  background: url('./img/gift/gift_bg.jpg') no-repeat center center/cover fixed;
+  background: url('../img/gift/gift_bg.jpg') no-repeat center center/cover fixed;
 }
 
 .container {
@@ -97,16 +97,16 @@ p {
 }
 
 .container .card:nth-child(1) .face.face2 {
-  background: url('./img/gift/1.jpg') center center/cover;  
+  background: url('../img/gift/1.jpg') center center/cover;  
 }
 .container .card:nth-child(2) .face.face2 {
-  background: url('./img/gift/2.jpg') center center/cover;
+  background: url('../img/gift/2.jpg') center center/cover;
 }
 .container .card:nth-child(3) .face.face2 {
-  background: url('./img/gift/3.jpg') center center/cover;
+  background: url('../img/gift/3.jpg') center center/cover;
 }
 .container .card:nth-child(4) .face.face2 {
-  background: url('./img/gift/4.jpg') center center/cover;
+  background: url('../img/gift/4.jpg') center center/cover;
 }
 
 .container .card:hover .face.face2 h3 {
@@ -117,7 +117,7 @@ p {
 @media (max-width: 700px) {
 
   body {
-    background: url('./img/gift/gift_mobile_bg.jpg') no-repeat center center/cover fixed;
+    background: url('../img/gift/gift_mobile_bg.jpg') no-repeat center center/cover fixed;
   }
 
   .container {
